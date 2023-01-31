@@ -1,15 +1,10 @@
-"use strict";
-
-const logger = require("../utils/logger");
-
-const about = {
+export const about = {
   index(request, response) {
     logger.info("about rendering");
     const viewData = {
-      title: "About Playlist 1"
+      title: "About Playlist 1",
     };
+    console.log("about" + viewData);
     response.render("about", viewData);
-  }
+  },
 };
-
-module.exports = about;
