@@ -1,0 +1,62 @@
+{
+  "playlistCollection": [
+    {
+      "id": "01",
+      "title": "Beethoven Sonatas",
+      "duration": 35,
+      "songs": [
+        {
+          "id": "04",
+          "title": "Piano Sonata No. 3",
+          "artist": "Beethoven",
+          "genre": "Classical",
+          "duration": 5
+        },
+        {
+          "id": "05",
+          "title": "Piano Sonata No. 7",
+          "artist": "Beethoven",
+          "genre": "Classical",
+          "duration": 6
+        },
+        {
+          "id": "06",
+          "title": "Piano Sonata No. 10",
+          "artist": "Beethoven",
+          "genre": "Classical",
+          "duration": 4
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "Beethoven Variations",
+      "duration": 67,
+      "songs": [
+        {
+          "id": "10",
+          "title": "Opus 34: Six variations on a theme in F major",
+          "artist": "Beethoven",
+          "genre": "Classical",
+          "duration": 11
+        },
+        {
+          "id": "147d18be-f4cd-449f-97db-a793b8ce1941",
+          "title": "asd",
+          "artist": "asd"
+        }
+      ]
+    },
+    {
+      "id": "da85e820-9817-11ea-a840-ad71b3e0cd02",
+      "title": "asas",
+      "songs": [
+        {
+          "id": "ddd27b10-9817-11ea-a840-ad71b3e0cd02",
+          "title": "as",
+          "artist": "as"
+        }
+      ]
+    }
+  ]
+}
